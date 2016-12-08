@@ -1,6 +1,6 @@
 {
   "name": "Bzsc",
   "tagline": "Test website",
-  "body": "#不知所措\r\n\r\n一个甚至连内容都没明白要做什么的网站",
+  "body": "# 不知所措\r\n\r\n---\r\n现在不知所措还处于测试阶段  \r\n---\r\n\r\n这个网站可能会变成：\r\n\r\n1. 一个在线的图书馆\r\n2. 一个博客\r\n3. 一个论坛\r\n\r\n> **\"If you can't explain it simply you don't understand it well enough\"**\r\n> - Albert Einstein\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
